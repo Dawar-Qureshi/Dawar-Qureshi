@@ -5,7 +5,7 @@ My research interests include uncertainty quantification in water infrastructure
 ## Collaboration
 
 I’m open to collaborate on research projects in:
-- Resilient Drainage Design   
+- Resilient Water Infrastructure Design   
 - Flood risk modelling  
 - Stochastic Computational Hydrology and Hydraulics.
 
